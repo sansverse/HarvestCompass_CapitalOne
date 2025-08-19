@@ -1,4 +1,3 @@
-=======
 # 🌾 Harvest Compass: AgriProfit & Loan Estimator 🌱
 
 **Empowering farmers to make data-driven, sustainable crop choices!** 🌿💧
