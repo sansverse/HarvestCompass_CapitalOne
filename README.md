@@ -1,12 +1,6 @@
-<<<<<<< HEAD
----
-
-# 🌾 Harvest Compass: AgriProfit & Loan Estimator 🌱
-
 =======
 # 🌾 Harvest Compass: AgriProfit & Loan Estimator 🌱
 
->>>>>>> abe06a8fbdb4155a72a86a778c84436bfb87c436
 **Empowering farmers to make data-driven, sustainable crop choices!** 🌿💧
 
 ---
