@@ -1,4 +1,4 @@
-# AgriProfit & Loan Estimator 🌱
+# Harvest Compass AgriProfit & Loan Estimator 🌱
 
 Empowering farmers to make data-driven, sustainable crop choices! 🌾💧
 
@@ -19,10 +19,7 @@ Empowering farmers to make data-driven, sustainable crop choices! 🌾💧
      ```
 2. **Run the app**
    - Open Anaconda Prompt (or your terminal with the correct environment activated)
-   - Navigate to this folder:
-     ```
-     cd C:\Users\sanje\Desktop\CapitalOne\WEBDEV-CapOne
-     ```
+
    - Start the app:
      ```
      streamlit run streamlit_app.py
